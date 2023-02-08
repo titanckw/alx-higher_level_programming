@@ -259,9 +259,6 @@ guillaume@ubuntu:~/0x0B$
 
 **Repo:**
 
-* GitHub repository: `holbertonschool-higher_level_programming`
-* Directory: `0x0B-python-input_output`
-* File: `4-append_write.py`
 
 ### [5. To JSON string](./5-to_json_string.py)
 
@@ -1025,9 +1022,3 @@ Write a script that finds a string in the heap of a running process, and replace
 </details>
 
 ---
-
-## Author
-### _Edgar Miguel Rodríguez G._
-
-- **Github:** [Miguelro123](https://github.com/Miguelro123) 
-- **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
