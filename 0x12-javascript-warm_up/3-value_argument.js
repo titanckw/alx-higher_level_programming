@@ -1,4 +1,4 @@
-#!/usr/bin/nodejs
+#!/usr/bin/node
 // A script that prints the first argument
 const firstArg = process.argv[2];
 if (firstArg === undefined) {
