@@ -1,1 +1,1 @@
-Learning Javascript
+<h1>Learning Javascript</h1>
